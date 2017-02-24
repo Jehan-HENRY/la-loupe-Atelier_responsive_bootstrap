@@ -1,0 +1,8 @@
+.carousel-inner > .item > img {
+margin: auto;
+}
+.gallery
+{
+    display: inline-block;
+    margin-top: 20px;
+}
